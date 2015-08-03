@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<executable>
+    <category>Filtering.Arithmetic</category>
+    <title>Image File Creation</title>
+    <description>Creation of a image file</description>
+
+    <parameters>
+        <label>I</label>
+        <description>Input parameter</description>
+
+        <string>
+            <name>input</name>
+            <label>image input</label>
+            <channel>image</channel>
+            <index>1</index>
+            <description>image input</description>
+        </string>
+    </parameters>
+
+</executable>
